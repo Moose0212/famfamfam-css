@@ -3,8 +3,9 @@
 	min-width: 16px;
 	min-height: 16px;
 	max-width: 16px;
-	 max-height: 16px;
+    max-height: 16px;
 	display: inline-block;
+    position: relative;
 }
 
 .silk.silk-accept {
